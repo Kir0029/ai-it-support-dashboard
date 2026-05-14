@@ -1,0 +1,13 @@
+# Секреты (API ключи)
+.env
+
+# Временные файлы Python
+__pycache__/
+*.pyc
+
+# Локальная история чатов
+chat_history.json
+
+# Настройки IDE
+.vscode/
+.idea/
